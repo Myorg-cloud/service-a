@@ -1,6 +1,6 @@
 To Run services locally,
 
-Requirements : Docker setup and Git
+Requirements : Docker, Docker compose and Git
 
 **git clone https://github.com/Myorg-cloud/service-a.git**
 
