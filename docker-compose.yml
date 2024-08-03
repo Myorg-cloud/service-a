@@ -12,7 +12,7 @@ services:
     build:
       context: ./service-b
     ports:
-      - "8080:8080"
+      - "8090:8080"
     networks:
       - app-network
 
@@ -20,7 +20,7 @@ services:
     build:
       context: ./service-c
     ports:
-      - "8080:8080"
+      - "9000:8080"
     networks:
       - app-network
 
