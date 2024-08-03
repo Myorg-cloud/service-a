@@ -10,17 +10,17 @@ services:
 
   service-b:
     build:
-      context: ./service-b
+      context: ../service-b
     ports:
-      - "8090:8080"
+      - "8080:8080"
     networks:
       - app-network
 
   service-c:
     build:
-      context: ./service-c
+      context: ../service-c
     ports:
-      - "9000:8080"
+      - "8080:8080"
     networks:
       - app-network
 
