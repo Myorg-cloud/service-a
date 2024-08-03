@@ -9,3 +9,8 @@ Requirements : Docker, Docker compose and Git
 **chmod +x run.sh**
 
 **./run.sh**
+
+
+To stop services
+
+**docker compose down**
