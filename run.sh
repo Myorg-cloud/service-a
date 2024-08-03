@@ -1,6 +1,4 @@
 #!/bin/bash
-git clone https://github.com/Myorg-cloud/service-a.git
-echo "Succesfully cloned Service-a"
 git clone https://github.com/Myorg-cloud/service-b.git
 echo "Succesfully cloned Service-b"
 git clone https://github.com/Myorg-cloud/service-c.git
