@@ -1,10 +1,8 @@
 To Run services locally,
 
-Requirements : Docker setup and Git
+Requirements : Docker setup, Git and git bash
 
 **git clone https://github.com/Myorg-cloud/service-a.git**
-
-echo "Succesfully cloned Service-a"
 
 **cd service-a**
 
