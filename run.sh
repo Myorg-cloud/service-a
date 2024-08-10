@@ -6,5 +6,4 @@ echo "Succesfully cloned Service-c"
 
 cd service-a
 docker compose build
-sleep 180
 docker-compose up -d
