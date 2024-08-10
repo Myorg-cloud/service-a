@@ -8,5 +8,3 @@ cd service-a
 docker compose build
 sleep 180
 docker-compose up -d
-
-echo "service is running  in locally, You can open either using culr http://localhost:8080 or in browser http:localhost:8080"
